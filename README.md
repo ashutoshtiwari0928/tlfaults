@@ -64,3 +64,8 @@ Trained using:
    ```bash
    git clone https://github.com/yourusername/fault-detection-transmission-lines.git
    cd fault-detection-transmission-lines
+
+## About Dataset
+- I got this dataset from IEEE Dataport. The original dataset is of more than 500 MBs. Hence, I have provided only a sample of dataset in this project. This also helps the original creator of dataset protect his intellectual property. To access the dataset, follow the given link.
+- https://ieee-dataport.org/documents/transmission-line-fault-using-line-voltages-and-currents-features
+- You will need an IEEE membership for accessing a dataset. 
